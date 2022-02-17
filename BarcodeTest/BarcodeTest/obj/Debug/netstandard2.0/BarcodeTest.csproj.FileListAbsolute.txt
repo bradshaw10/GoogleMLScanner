@@ -1,0 +1,14 @@
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\bin\Debug\netstandard2.0\BarcodeTest.deps.json
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\bin\Debug\netstandard2.0\BarcodeTest.dll
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\bin\Debug\netstandard2.0\ref\BarcodeTest.dll
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\bin\Debug\netstandard2.0\BarcodeTest.pdb
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\netstandard2.0\BarcodeTest.csprojAssemblyReference.cache
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\netstandard2.0\BarcodeTest.AssemblyInfoInputs.cache
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\netstandard2.0\BarcodeTest.AssemblyInfo.cs
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\netstandard2.0\BarcodeTest.csproj.CoreCompileInputs.cache
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\netstandard2.0\BarcodeTest.dll
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\netstandard2.0\ref\BarcodeTest.dll
+C:\Users\EBradshaw\source\repos\BarcodeTest\BarcodeTest\BarcodeTest\obj\Debug\netstandard2.0\BarcodeTest.pdb

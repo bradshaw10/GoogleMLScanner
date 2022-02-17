@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zqorjq12UIn38M/+6iZ7bByc1hZFxVkHJIsqY7NuNAucZ7qjKbzIP0ufYCN1qp6NuW6CPvuQINhCh6T3K8xcuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EBradshaw\\source\\repos\\BarcodeTest\\BarcodeTest\\BarcodeTest\\BarcodeTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\barcodescanner.xf\\5.0.6\\barcodescanner.xf.5.0.6.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\zxing.net\\0.16.6\\zxing.net.0.16.6.nupkg.sha512"
+  ],
+  "logs": []
+}
